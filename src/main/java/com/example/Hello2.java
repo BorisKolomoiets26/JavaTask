@@ -10,4 +10,9 @@ public class Hello2 {
   public void sayText() {
     System.out.println(this.text);
   }
+
+//  for second commit in dev branch
+  public void sayGoodbay() {
+    System.out.println("goodbay");
+  }
 }
